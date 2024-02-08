@@ -1,0 +1,23 @@
+Behavior,Behavior type,2020-03-01 to 2021-02-28,2021-05-01 to 2021-12-18,2021-12-19 to 2022-04-29,2022-08-01 to 2022-12-31,Type4,Type5
+Washed my hands,Protective,3.447136564,3.027253669,3.113253012,3.198412698,Cluster1,Cluster1
+Wore a facemask,Protective,3.665198238,3.324947589,3.371084337,1.632275132,Cluster2,Cluster2
+Tried not to touch my eyes,Protective,3.211453744,2.786163522,2.843373494,2.986772487,Cluster1,Cluster1
+Covered my mouth when sneezed,Protective,3.707048458,3.461215933,3.453012048,3.587301587,Cluster1,Cluster1
+Maintained 6 feet,Protective,3.165198238,2.72327044,2.754216867,1.791005291,Cluster3,Cluster3
+Attended class/work remotely,Protective,2.907488987,2.301886792,2.065060241,1.772486772,Cluster3,Cluster3
+Reduced trips outside the house,Protective,2.839207048,2.100628931,1.925301205,1.306878307,Cluster3,Cluster3
+Ate indoors at restaurants,Risky,0.68061674,1.278825996,1.122891566,1.931216931,Clsuter4,Clsuter5
+Ate outdoors at restaurants,Risky,1.49339207,1.677148847,1.01686747,1.798941799,Cluster4,Cluster4
+Grocery shop less frequently,Protective,2.513215859,1.716981132,1.768674699,1.346560847,Cluster3,Cluster3
+Reduced trips to retail locations,Protective,2.788546256,2.031446541,1.94939759,1.439153439,Cluster3,Cluster3
+Less frequently attended social gatherings,Protective,3.004405286,2.371069182,2.337349398,1.37037037,Cluster3,Cluster3
+Avoided large social gatherings,Protective,3.31277533,2.836477987,2.775903614,1.992063492,Cluster3,Cluster3
+Attended indoor social gatherings,Risky,1.301762115,1.511530398,1.346987952,1.73015873,Cluster4,Cluster5
+Attended outdoor social gatherings,Risky,1.711453744,1.92033543,1.248192771,1.899470899,Cluster4,Cluster4
+Attended a sporting event,Risky,0.588105727,1.004192872,0.710843373,1.071428571,Cluster4,Cluster5
+Attended a concert,Risky,0.352422907,0.551362683,0.404819277,0.902116402,Cluster5,Cluster5
+Attended a 20-50 people social gathering,Risky,0.9030837,1.36687631,1.055421687,1.724867725,Cluster4,Cluster5
+Attended a 51-1000 people social gathering,Risky,0.45814978,0.844863732,0.628915663,1.182539683,Cluster4,Cluster5
+Attended a 1001-5000 people social gathering,Risky,0.284140969,0.547169811,0.390361446,0.71957672,Cluster5,Cluster5
+Attended a >5000 people social gathering,Risky,0.264317181,0.612159329,0.38313253,0.685185185,Cluster4,Cluster5
+Stayed home if I felt unwell,Protective,3.764317181,3.530398323,3.445783133,3.433862434,Cluster1,Cluster1
